@@ -2,6 +2,8 @@ package frc.team236.ticktock;
 
 import java.util.Vector;
 
+import frc.team236.ticktock.lib.Tickable;
+
 /**
  * MultiLooper.java
  * 
